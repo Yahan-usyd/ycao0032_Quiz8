@@ -1,5 +1,5 @@
-#Quiz 8_Design research for main assignment
-##Imaging Technique Inspiration
+# Quiz 8_Design research for main assignment
+## Imaging Technique Inspiration
 I was inspired by **Yayoi Kusama’s** polka dot hallucinations and emotions, and I want to use repeating patterns made by code to show how fear spreads and control is lost in *The Scream*, creating a feeling of chaos and falling apart.
 
 ![An image of Yayoi Kusama’s polka dot](readmeImages/dot1.jpg)
