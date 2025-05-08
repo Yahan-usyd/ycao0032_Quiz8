@@ -8,6 +8,6 @@ I was inspired by **Yayoi Kusama’s** polka dot hallucinations and emotions, an
 ## Part 2 Coding Technique Exploration
 This generative art code uses coordinate shifts and color control to create animated effects. Repetition, mirroring, and rotation produce distorted, noise-like dot patterns that respond to interaction—visually expressing tension, anxiety, and a sense of scream.
 
-![An image of _Toxic Secret_ by Zaron Chen](readmeImages/dot1.jpg)
+![An image of _Toxic Secret_ by Zaron Chen](readmeImages/code.png)
 
 [Example of online code link](https://openprocessing.org/sketch/1909817)
